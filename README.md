@@ -2,8 +2,6 @@
 
 This repository is the download home for demo builds of **The Darker Night: Regent City**.
 
-Large build files are not stored in Git. They are published as downloadable assets on the repository's [GitHub Releases](https://github.com/joserodolfofreitas/tdn-regent-city-releases/releases) page instead.
-
 ## Download the demo
 
 Download version **0.60.2** for your system:
