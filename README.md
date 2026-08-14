@@ -6,11 +6,12 @@ Large build files are not stored in Git. They are published as downloadable asse
 
 ## Download the demo
 
-Open the [latest release](https://github.com/joserodolfofreitas/tdn-regent-city-releases/releases/latest), then download the package for your system:
+Download version **0.60.2** for your system:
 
-- Windows x64
-- macOS — Apple Silicon (M1 or newer)
-- macOS — Intel
+- [Windows x64](https://github.com/joserodolfofreitas/tdn-regent-city-releases/releases/download/v0.60.2/The-Darker-Night-Regent-City-0.60.2-Windows-x64.zip)
+- [macOS — Apple Silicon (M1 or newer)](https://github.com/joserodolfofreitas/tdn-regent-city-releases/releases/download/v0.60.2/The-Darker-Night-Regent-City-0.60.2-macOS-Apple-Silicon.zip)
+- [macOS — Intel](https://github.com/joserodolfofreitas/tdn-regent-city-releases/releases/download/v0.60.2/The-Darker-Night-Regent-City-0.60.2-macOS-Intel.zip)
+
+You can also browse the [latest release](https://github.com/joserodolfofreitas/tdn-regent-city-releases/releases/latest) for release notes and checksums.
 
 Each release includes platform-specific launch instructions and SHA-256 checksums for verifying the downloads.
-
